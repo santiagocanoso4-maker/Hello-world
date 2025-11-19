@@ -1,5 +1,2 @@
-# Hello-world
-This is my first repository - I am Happy.
-I am looking forward to learning more
-New comments
-#I am practing for the exam
+19_11_2025
+Practicing for the exam
